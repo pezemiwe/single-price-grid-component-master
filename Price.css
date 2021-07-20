@@ -133,18 +133,18 @@ body {
     border-top-left-radius: 6px;
     border-top-right-radius: 6px;
     text-align: left;
+    padding: 20px;
 }
 #flex-item2 {
     height: 250px;
     width: 300px;
     background-color: hsl(179, 62%, 43%);
-    border-bottom-left-radius: 6px;
-}
-#flex-item2 {
     border-bottom-left-radius: 0px;
+    padding: 20px;
 }
 #flex-item3 {
     border-bottom-right-radius: 6px;
     border-bottom-left-radius: 6px;
+    padding: 20px;
 }
 }

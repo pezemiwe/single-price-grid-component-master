@@ -103,6 +103,13 @@ body {
     font-size: 14px;
     color: hsl(0, 0%, 100%)
 }
+#gap:hover {
+    cursor: pointer;
+    
+}
+#gap:active {
+    background-color: hsl(71, 76%, 70%);
+}
 #flex-item3 {
     height: 250px;
     width: 300px;
